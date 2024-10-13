@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "nesticle-emu",
+    "rusty-nesticle",
+]
